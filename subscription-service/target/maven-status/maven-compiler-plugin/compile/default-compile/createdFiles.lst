@@ -1,0 +1,6 @@
+com\example\subscriptionservice\MyBooks.class
+com\example\subscriptionservice\Subscription.class
+com\example\subscriptionservice\SubscriptionRepository.class
+com\example\subscriptionservice\SubscriptionServiceApplication.class
+com\example\subscriptionservice\SubscriptionServiceProxy.class
+com\example\subscriptionservice\SubscriptionController.class
